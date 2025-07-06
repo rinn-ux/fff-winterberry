@@ -50,10 +50,12 @@ body { text-align: justify;
   font-size: 1.5rem;
   font-family: Cinzel;
  }
- @page {
+ 
+@page {
   margin-bottom: 5pt;
   margin-top: 5pt;
  }
+
  .fff_chapter {
   font-family: serif;
  }
