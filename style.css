@@ -1,0 +1,67 @@
+body { text-align: justify;
+        margin: 2%%;
+        adobe-text-layout: optimizeSpeed;
+        font-size:1em; }
+ pre { font-size: x-small; }
+ sml { font-size: small; }
+ h1 { text-align: center; }
+ h2 { text-align: center; }
+ h3 { text-align: center; }
+ h4 { text-align: center; }
+ h5 { text-align: center; }
+ h6 { text-align: center; }
+ .CI {
+     text-align:center;
+     margin-top:0px;
+     margin-bottom:0px;
+     padding:0px;
+     }
+ .center   {text-align: center;}
+ .cover    {text-align: center;}
+ .full     {width: 100%%; }
+ .quarter  {width: 25%%; }
+ .smcap    {font-variant: small-caps;}
+ .u        {text-decoration: underline;}
+ .bold     {font-weight: bold;}
+ .break    {page-break-after: always;}
+ 
+ .fff_titlepage {
+     margin-top:0px;
+     margin-bottom:0px;
+     padding:0px;
+ }
+
+ .fff_frontmatter{
+   text-align:center;
+ }
+ .fff_frontmatter p { 
+  font-size: 0.7rem; 
+  font-family: Cinzel; 
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+ }
+ h3.fff_title {
+  font-size: 2rem;
+  font-family: Cinzel;
+  
+  }
+ h4.fff_author {
+  font-size: 1.5rem;
+  font-family: Cinzel;
+ }
+ @page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+ }
+ .fff_chapter {
+  font-family: serif;
+ }
+
+ .fff_meta .label {
+  font-weight: bold;
+ }
+
+ .fff_meta .value {
+  margin-left: 0.75rem;
+ }
